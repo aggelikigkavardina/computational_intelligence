@@ -34,6 +34,6 @@ The project includes two main assignments:
   - PDF report with results and conclusions for each exercise
 
 ## Team
-Aggeliki Gkavardina, A.M. 4042
-Alexandros Kokkinos, A.M. 4084
-Euaggelos Tempelopoulos, A.M. 4175
+- Aggeliki Gkavardina, A.M. 4042
+- Alexandros Kokkinos, A.M. 4084
+- Euaggelos Tempelopoulos, A.M. 4175
